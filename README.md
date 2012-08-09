@@ -15,7 +15,7 @@ correctness.
 Grit is maintained by Tom Preston-Werner, Scott Chacon, Chris Wanstrath, and
 PJ Hyett.
 
-This documentation is accurate as of Grit 2.3.
+This documentation is accurate as of Grit 2.3..
 
 
 ## Requirements
